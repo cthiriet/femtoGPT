@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "femtogpt"
+version = "0.1.0"
+description = ""
+authors = ["cthiriet <clement@cthiriet.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.extras]
+test = ["pytest", "torch"]
+viz = ["matplotlib"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
