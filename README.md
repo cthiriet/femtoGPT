@@ -6,7 +6,7 @@ You've seen [nanoGPT](https://github.com/karpathy/nanoGPT).
 
 You've seen [picoGPT](https://github.com/jaymody/picoGPT).
 
-Now, imagine you're alone on a desert island 🏝️ with a computer, Python installed and no Internet (you can't do pip install torch 🥲).
+Now, imagine you're alone on a desert island 🏝️ with a computer, Python installed and no Internet (you can't do `pip install torch` 🥲).
 
 A crazy idea occurs to you: what if I created a GPT model... from scratch?
 
