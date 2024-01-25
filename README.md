@@ -1,5 +1,7 @@
 # femtoGPT
 
+GPT implementation in pure Python.
+
 You've seen [nanoGPT](https://github.com/karpathy/nanoGPT).
 
 You've seen [picoGPT](https://github.com/jaymody/picoGPT).
